@@ -1,0 +1,13 @@
+body{
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.block{
+  display: flex;  
+  align-items: center;
+}
+
+.title{
+  margin-right: 0.5rem;
+}
